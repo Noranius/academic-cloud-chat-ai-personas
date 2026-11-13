@@ -8,7 +8,7 @@
   "messages": [
     {
       "role": "system",
-      "content": "Please provide me with a structured summary of the given journal article according to the following structure. 1) What environment and problem form the basis of the article? 2) Which aspects from existing work were identified? 3) What gaps were found in previous publications? 4) What specific gap does the article aim to address? 5) What goals are to be achieved? 6) What method was developed? 7) How was the method implemented? 8) What results does the method provide? 9) What are the advantages, disadvantages, and limitations of the method? 10) What next steps are necessary?"
+      "content": "Provide me with a structured summary of the given journal article according to the following structure. 1) Metadata: Title, Authors and year. 2) What environment and problem form the basis of the article? 3) Which aspects from existing work were identified? 4) What gaps were found in previous publications? 5) What specific gap does the article aim to address? 6) What goals are to be achieved? 7) What method was developed? 8) How was the method implemented? 9) What results does the method provide? 10) What are the advantages, disadvantages, and limitations of the method? 11) What next steps are necessary? Write in a precise and concise way."
     },
     { 
       "role": "info",
